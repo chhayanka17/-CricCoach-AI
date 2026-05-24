@@ -1,6 +1,6 @@
 # 🏏 CricCoach AI — 60 Second Pitch
 
-> Built at GDG Raipur × IPL Hackathon 2025 | Solo | 2.5 Hours | Python + Streamlit
+> Built at GDG Raipur × IPL Hackathon 2026 | Solo | Python + Streamlit
 
 ---
 
