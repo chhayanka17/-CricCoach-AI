@@ -1,4 +1,4 @@
-# 🏏 CricCoach AI — 60 Second Pitch
+# 🏏 CricCoach AI — Data Driven Live Match Strategy Advisor
 
 > Built at GDG Raipur × IPL Hackathon 2026 | Solo | Python + Streamlit
 
