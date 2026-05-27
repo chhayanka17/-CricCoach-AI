@@ -212,11 +212,20 @@ st.divider()
 col1, col2, col3, col4 = st.columns(4)
 analyze = False
 with col1:
-    if st.button("Powerplay Crisis"): analyze = True
+    if st.button("Powerplay Crisis"):
+        batting_team="Mumbai Indians"; bowling_team="Rajasthan Royals"
+        current_score=45; current_wickets=3; current_over=5; target=185; innings=2
+        striker="RG Sharma"; bowler="YS Chahal"; analyze=True
 with col2:
-    if st.button("Last Over Chase"): analyze = True
+    if st.button("Last Over Chase"):
+        batting_team="Mumbai Indians"; bowling_team="CSK"
+        current_score=162; current_wickets=9; current_over=19; target=186; innings=2
+        striker="HH Pandya"; bowler="JJ Bumrah"; analyze=True
 with col3:
-    if st.button("Death Bowling"): analyze = True
+    if st.button("Death Bowling"):
+        batting_team="Chennai Super Kings"; bowling_team="Mumbai Indians"
+        current_score=140; current_wickets=4; current_over=17; target=0; innings=1
+        striker="MS Dhoni"; bowler="JJ Bumrah"; analyze=True
 with col4:
     if st.button("Analyze Now", type="primary"): analyze = True
 
