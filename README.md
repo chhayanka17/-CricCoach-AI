@@ -106,3 +106,6 @@ Risk:
 GDG Raipur × IPL Hackathon 2025  
 
 [GitHub](https://github.com/yourusername/criccoach-ai) · [LinkedIn](https://linkedin.com/in/yourprofile)
+
+## Live Demo
+👉 https://6y5ntuynaayfxhatkerhec.streamlit.app/
